@@ -1,0 +1,18 @@
+#aiseo_generate_button {
+  width: 100%;
+  margin-top: 8px;
+}
+
+#aiseo_generate_status {
+  margin-top: 8px;
+}
+
+@keyframes aiseo-spin {
+  100% { transform: rotate(360deg); }
+}
+
+.dashicons.spin {
+  animation: aiseo-spin 1s linear infinite;
+  display: inline-block;
+  vertical-align: middle;
+} 
