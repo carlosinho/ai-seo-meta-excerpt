@@ -6,7 +6,7 @@ This plugin was created by following a single, comprehensive prompt (shown below
 
 After this original prompt, I went back and forth a lot to iron out the bugs and get the main functionality implemented.
 
-All explained on YouTube: TK
+All explained on YouTube: https://www.youtube.com/watch?v=z7ZaSLuwh5A
 
 My main takeaways are:
 
